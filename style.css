@@ -68,6 +68,7 @@ color: #8b5cf6;
     height: 100vh;
     text-align: center;
     background: linear-gradient( 135deg, #0f172a,#1e3a8a );
+margin-bottom: 100px;
 
 }
 .hero-container .content{
@@ -410,6 +411,7 @@ font-size: 20px;
     font-weight: 700;
 }
  @media (max-width:780px) {
+    
     nav .content { 
     display: flex;
     flex-direction: column;
@@ -437,30 +439,32 @@ gap: 30px;
 padding:  ;   
 }
 .nav-links ul a{
-    font-size: 18px;
+    font-size: 14px;
 }
+
 .hero-container .content{
     margin-bottom: 40px;
-    margin-top: 40px;
+    margin-top: 200px;
+    
 }
 .hero-welcome{
-    font-size: 22px;
+    font-size: 18px;
     margin-bottom: 3px;
     
 
 }
 .hero-name{
-    font-size: 30px;
+    font-size: 22px;
     margin-bottom: 10px;
    
 }
 .hero-work{
-    margin-bottom: 13px;
+    font-size: 19px;
     
 }
  .hero-desc{
     
-
+font-size: 17px;
 margin-bottom: 20px;
  }
  .hero-btn{
@@ -542,5 +546,19 @@ margin-bottom: 20px;
 .contact-small .inf p{
     margin-bottom: 5px;
     font-size: 14px;
+}
+.f-icon{
+    
+     display: flex;
+    gap: 10px; 
+    margin-bottom: 10px;
+}
+.f-icon2{
+color: #8b5cf6;
+font-size: 15px;
+}
+.copyright{
+    font-size: 14px;
+    font-weight: 700;
 }
 } 
