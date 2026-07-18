@@ -437,6 +437,10 @@ padding:  ;
 .nav-links ul a{
     font-size: 14px;
 }
+.section-container{
+    width: 100%;
+    
+}
 
 .hero-container .content{
     margin-bottom: 40px;
@@ -536,10 +540,12 @@ padding: 5px;
 padding: 3px 5px;
 }
 .contact-form{
+width: 60%;
 
 }
 .contact-input{
     padding: 5px ;
+
 }
 .contact-button{
     cursor: pointer;
