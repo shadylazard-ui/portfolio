@@ -431,8 +431,8 @@ nav{
 }
  .nav-links ul{
     display: flex;
-gap: 30px;
-padding:  ;   
+gap: 18px;
+  
 }
 .nav-links ul a{
     font-size: 12px;
@@ -447,7 +447,7 @@ padding:  ;
     
 }
 .hero-container{
-    padding: 300px 40px;
+    padding: 400px 40px;
     flex-direction: column;
     display: flex;
     align-items: center;
