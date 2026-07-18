@@ -435,11 +435,11 @@ gap: 30px;
 padding:  ;   
 }
 .nav-links ul a{
-    font-size: 14px;
+    font-size: 12px;
 }
 .section-container{
     width: 100%;
-    
+    padding: 0 40px;
 }
 
 .hero-container .content{
@@ -447,7 +447,7 @@ padding:  ;
     
 }
 .hero-container{
-    padding: 300px 0;
+    padding: 300px 40px;
     flex-direction: column;
     display: flex;
     align-items: center;
