@@ -447,7 +447,8 @@ gap: 18px;
     
 }
 .hero-container{
-    padding: 400px 40px;
+   
+    padding: 600px 40px;
     flex-direction: column;
     display: flex;
     align-items: center;
